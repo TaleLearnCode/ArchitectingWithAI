@@ -26,6 +26,7 @@ The session concludes with a practical review workflow. You will learn to check 
 |-------|:--------:|-----:|-----:|-----:|----------:|
 | [The Cloud & AI Summit 2026](https://www.cloudandaisummit.com/) | St. Louis, MO | 2026-09-30 to 2026-10-02 | TBA | TBA | Available Afterwards |
 | [Beer City Code 2026](https://www.beercitycode.com/) | Grand Rapids, MI | 2026-08-15 | TBA | TBA | Available Afterwards |
+| [Scenic City Summit 2026](https://sceniccitysummit.com/) | Chattanooga, TN | 2026-06-05 | 11:00 EDT | Room 13 | Available Afterwards |
 
 ## Resources
 There are no additional resources for this presentation.
