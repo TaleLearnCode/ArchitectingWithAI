@@ -2,7 +2,7 @@
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [The Cloud & AI Summit 2026](https://www.cloudandaisummit.com/) | St. Louis, MO | 2026-09-30 to 2026-10-02 | TBA | TBA | Available Afterwards |
+| [The Cloud & AI Summit 2026](https://www.cloudandaisummit.com/) | St. Louis, MO | 2026-10-01 | 8:30 CDT | Brilliance Ballroomm | [Slides](architecting-with-ai-cas2026.pdf) |
 | [Beer City Code 2026](https://www.beercitycode.com/) | Grand Rapids, MI | 2026-08-15 | 13:00 EDT | Room 107 | [Slides](ArchitectingWithAI_BeerCityCode2026.pdf) \|[Prompt Library](prompt-library/README.md) |
 | [Scenic City Summit 2026](https://sceniccitysummit.com/) | Chattanooga, TN | 2026-06-05 | 11:00 EDT | Room 13 | [Slides](ArchitectingWithAI_ScenicCity2026.pdf) \| [Prompt Library](prompt-library/README.md) |
 
