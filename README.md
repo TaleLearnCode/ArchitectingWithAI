@@ -28,6 +28,7 @@ The session concludes with a practical review workflow. You will learn to check 
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [Atlanta Developers Conference](https://www.atldevcon.com/) | Atlanta, GA | 2026-10-17 | 10:00 EDT | 258 | [Slides](EventMaterials/ArchitectingWithAI_AtlantaDevCon2026.pdf) |
 | [The Cloud & AI Summit 2026](https://www.cloudandaisummit.com/) | St. Louis, MO | 2026-10-01 | 8:30 CDT | Brilliance | [Slides](EventMaterials/architecting-with-ai-cas2026.pdf) |
 | [Beer City Code 2026](https://www.beercitycode.com/) | Grand Rapids, MI | 2026-08-15 | 13:00 EDT | Room 107 | [Slides](EventMaterials/ArchitectingWithAI_BeerCItyCode2026.pdf) \|[Prompt Library](EventMaterials/prompt-library/README.md) |
 | [Scenic City Summit 2026](https://sceniccitysummit.com/) | Chattanooga, TN | 2026-06-05 | 11:00 EDT | Room 13 | [Slides](EventMaterials/ArchitectingWithAI_ScenicCity2026.pdf) \| [Prompt Library](EventMaterials/prompt-library/README.md) |
