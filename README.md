@@ -28,6 +28,7 @@ The session concludes with a practical review workflow. You will learn to check 
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [Louisville .NET Meetup](https://www.meetup.com/louisville-dotnet/events/316993748) | Louisville, KY | 2026-10-22 | 18:30 EDT | TekSystems | [Slides](EventMaterials/ArchitectingWithAI_LouDotNet.pdf) |
 | [Atlanta Developers Conference](https://www.atldevcon.com/) | Atlanta, GA | 2026-10-17 | 10:00 EDT | 258 | [Slides](EventMaterials/ArchitectingWithAI_AtlantaDevCon2026.pdf) |
 | [The Cloud & AI Summit 2026](https://www.cloudandaisummit.com/) | St. Louis, MO | 2026-10-01 | 8:30 CDT | Brilliance | [Slides](EventMaterials/architecting-with-ai-cas2026.pdf) |
 | [Beer City Code 2026](https://www.beercitycode.com/) | Grand Rapids, MI | 2026-08-15 | 13:00 EDT | Room 107 | [Slides](EventMaterials/ArchitectingWithAI_BeerCItyCode2026.pdf) \|[Prompt Library](EventMaterials/prompt-library/README.md) |
